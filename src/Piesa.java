@@ -15,4 +15,11 @@ public class Piesa {
     }
 
 
+    public void setNume(String nume) {
+        this.nume = nume;
+    }
+
+    public void setPret(int pret) {
+        this.pret = pret;
+    }
 }
