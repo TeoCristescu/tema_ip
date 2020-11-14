@@ -17,4 +17,16 @@ public class Sucursala {
     public int getNr_angajati() {
         return nr_angajati;
     }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setLocatie(String locatie) {
+        this.locatie = locatie;
+    }
+
+    public void setNr_angajati(int nr_angajati) {
+        this.nr_angajati = nr_angajati;
+    }
 }
